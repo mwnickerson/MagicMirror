@@ -1,0 +1,8 @@
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\obj\Debug\MagicMirror2.csproj.AssemblyReference.cache
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\obj\Debug\MagicMirror2.csproj.SuggestedBindingRedirects.cache
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\obj\Debug\MagicMirror2.csproj.CoreCompileInputs.cache
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\bin\Debug\MagicMirror2.exe.config
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\bin\Debug\MagicMirror2.exe
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\bin\Debug\MagicMirror2.pdb
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\obj\Debug\MagicMirror2.exe
+C:\Users\L8S-Matthew\source\repos\MagicMirror2\MagicMirror2\obj\Debug\MagicMirror2.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78481f8f-dba0-4e14-9588-7eca5cf05ef1": {
+      "ProjectGuid": "78481f8f-dba0-4e14-9588-7eca5cf05ef1",
+      "DisplayName": "MagicMirror2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

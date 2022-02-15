@@ -1,0 +1,8 @@
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\obj\Release\mscorlib.csproj.AssemblyReference.cache
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\obj\Release\mscorlib.csproj.SuggestedBindingRedirects.cache
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\obj\Release\mscorlib.csproj.CoreCompileInputs.cache
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\bin\Release\mscorlib.exe.config
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\bin\Release\mscorlib.exe
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\bin\Release\mscorlib.pdb
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\obj\Release\mscorlib.exe
+C:\Users\OSCP-Matthew\source\repos\mscorlib\mscorlib\obj\Release\mscorlib.pdb

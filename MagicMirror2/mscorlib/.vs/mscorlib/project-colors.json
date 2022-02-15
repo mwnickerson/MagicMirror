@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f15f469-2ff0-4867-b4d9-281564afe40a": {
+      "ProjectGuid": "3f15f469-2ff0-4867-b4d9-281564afe40a",
+      "DisplayName": "mscorlib",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

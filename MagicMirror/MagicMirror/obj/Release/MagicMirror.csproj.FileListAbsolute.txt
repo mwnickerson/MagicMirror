@@ -1,0 +1,8 @@
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\obj\Release\MagicMirror.csproj.AssemblyReference.cache
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\obj\Release\MagicMirror.csproj.SuggestedBindingRedirects.cache
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\obj\Release\MagicMirror.csproj.CoreCompileInputs.cache
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\bin\Release\MagicMirror.exe.config
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\bin\Release\MagicMirror.exe
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\bin\Release\MagicMirror.pdb
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\obj\Release\MagicMirror.exe
+C:\Users\L8S-Matthew\source\repos\MagicMirror\MagicMirror\obj\Release\MagicMirror.pdb
